@@ -1,0 +1,2 @@
+# FatJars
+ compiled fat jars
